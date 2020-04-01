@@ -21797,4 +21797,8 @@ date,county,state,fips,cases,deaths
 2020-03-30,Sublette,Wyoming,56035,1,0
 2020-03-30,Sweetwater,Wyoming,56037,2,0
 2020-03-30,Teton,Wyoming,56039,17,0
+<<<<<<< HEAD
 2020-03-30,Washakie,Wyoming,56043,1,0
+=======
+2020-03-30,Washakie,Wyoming,56043,1,0
+>>>>>>> 99b30cbf4181e35bdcc814e2b29671f38d7860a7
