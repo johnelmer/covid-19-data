@@ -8,7 +8,7 @@ Since late January, The Times has tracked cases of coronavirus in real time as t
 
 We have used this data to power our [maps](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html) and [reporting](https://www.nytimes.com/coronavirus) tracking the outbreak, and it is now being made available to the public in response to requests from researchers, scientists and government officials who would like access to the data to better understand the outbreak.
 
-The data begins with the first reported coronavirus case in Washington State on Jan. 21, 2020. We will publish regular updates to the data in this repository. 
+The data begins with the first reported coronavirus case in Washington State on Jan. 21, 2020. We will publish regular updates to the data in this repository.
 
 ## United States Data
 
@@ -44,7 +44,7 @@ In some cases, the geographies where cases are reported do not map to standard c
 
 ## Methodology and Definitions
 
-The data is the product of dozens of journalists working across several time zones to monitor news conferences, analyze data releases and seek clarification from public officials on how they categorize cases. 
+The data is the product of dozens of journalists working across several time zones to monitor news conferences, analyze data releases and seek clarification from public officials on how they categorize cases.
 
 It is also a response to a fragmented American public health system in which overwhelmed public servants at the state, county and territorial level have sometimes struggled to report information accurately, consistently and speedily. On several occasions, officials have corrected information hours or days after first reporting it. At times, cases have disappeared from a local government database, or officials have moved a patient first identified in one state or county to another, often with no explanation. In those instances, which have become more common as the number of cases has grown, our team has made every effort to update the data to reflect the most current, accurate information while ensuring that every known case is counted.
 
@@ -64,7 +64,7 @@ For each date, we show the cumulative number of confirmed cases and deaths as re
 
 * Counties
 
-In some instances, we report data from multiple counties or other non-county geographies as a single county. For instance, we report a single value for New York City, comprising the cases for New York, Kings, Queens, Bronx and Richmond Counties. In these instances the FIPS code field will be empty. (We may assign FIPS codes to these geographies in the future.) See the list of [geographic exceptions](#geographic-exceptions). 
+In some instances, we report data from multiple counties or other non-county geographies as a single county. For instance, we report a single value for New York City, comprising the cases for New York, Kings, Queens, Bronx and Richmond Counties. In these instances the FIPS code field will be empty. (We may assign FIPS codes to these geographies in the future.) See the list of [geographic exceptions](#geographic-exceptions).
 
 Cities like St. Louis and Baltimore that are administered separately from an adjacent county of the same name are counted separately.
 
@@ -84,13 +84,13 @@ All cases for the five boroughs of New York City (New York, Kings, Queens, Bronx
 
 Four counties (Cass, Clay, Jackson and Platte) overlap the municipality of Kansas City, Mo. The cases and deaths that we show for these four counties are only for the portions exclusive of Kansas City. Cases and deaths for Kansas City are reported as their own line.
 
-* Joplin, Mo.
+* Alameda, Calif.
 
-Joplin is reported separately from Jasper and Newton Counties. 
+Counts for Alameda County include cases and deaths from Berkeley and the Grand Princess cruise ship.
 
 * Chicago
 
-All cases and deaths for Chicago are reported as part of Cook County. 
+All cases and deaths for Chicago are reported as part of Cook County.
 
 
 ## License and Attribution
@@ -104,6 +104,8 @@ If you use it in an online presentation, we would appreciate it if you would lin
 If you use this data, please let us know at covid-data@nytimes.com and indicate if you would be willing to talk to a reporter about your research.
 
 See our [LICENSE](LICENSE) for the full terms of use for this data.
+
+This license is co-extensive with the Creative Commons Attribution-NonCommercial 4.0 International license, and licensees should refer to that license ([CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/legalcode)) if they have questions about the scope of the license.
 
 
 ## Contact Us
